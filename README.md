@@ -1,7 +1,7 @@
 # Установка
 ```bash
 git clone https://github.com/your-repo/sixmo-form-automation.git
-cd sixmo-form-automation
+cd text_form_automation
 pip install -r requirements.txt
 playwright install chromium
 ```
